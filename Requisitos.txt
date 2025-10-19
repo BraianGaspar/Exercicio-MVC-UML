@@ -1,0 +1,18 @@
+# Dependências do projeto Contador de Cliques - MVC
+
+# Python 3.8+ (requerido)
+# Tkinter (geralmente já vem instalado com Python)
+
+# Nenhuma dependência externa é necessária!
+# O projeto usa apenas bibliotecas padrão do Python:
+# - tkinter (GUI)
+# - abc (Abstract Base Classes)
+
+# Para verificar se o Tkinter está instalado, execute:
+# python -m tkinter
+
+# Caso o Tkinter não esteja instalado:
+# - Ubuntu/Debian: sudo apt-get install python3-tk
+# - Fedora: sudo dnf install python3-tkinter
+# - macOS: Já vem instalado com Python
+# - Windows: Já vem instalado com Python
